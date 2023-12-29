@@ -103,12 +103,9 @@ if name == 'main':
 ![image](https://github.com/Hashwatha/mobilerobot-openloopcontrol/assets/150231431/4f97c141-fad4-4cc4-aa69-e5ab5f7bde1a)
 
 
-
 ## MobileRobot Movement Video:
 
 https://youtu.be/wvK7Aa5VwHg?feature=shared
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
