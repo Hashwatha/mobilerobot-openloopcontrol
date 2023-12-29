@@ -100,7 +100,8 @@ if name == 'main':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![image](https://github.com/Hashwatha/mobilerobot-openloopcontrol/assets/150231431/4f97c141-fad4-4cc4-aa69-e5ab5f7bde1a)
+
 
 
 ## MobileRobot Movement Video:
